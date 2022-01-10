@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>Constructor Pattern in JavaScript</h3>
+	<h2>Constructor Pattern in JavaScript</h2>
 </div>
 
  <p> This is a class-based creational design pattern. Constructor Functions are speacial kind of functions which are used to create new objects with methods and properties</p>

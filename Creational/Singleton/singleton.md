@@ -1,7 +1,8 @@
 <div align="center">
-	<h3>Singleton Pattern in JavaScript</h3>
-  <p> This is a class based creational design pattern where single classes can be instantiated and we can use that globally. This single instance can be used throughout the applcation.</p>
+	<h2>Singleton Pattern in JavaScript</h2>
 </div>
+<p> This is a class based creational design pattern where single classes can be instantiated and we can use that globally. This single instance can be used throughout the applcation.</p>
+
 
 ```js
   let counter = 0;

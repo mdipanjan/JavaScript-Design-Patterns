@@ -1,8 +1,7 @@
 <div align="center">
-	<h3>Prototype Pattern in JavaScript</h3>
-  <p> This is a creational design pattern which uses JavaScript's native prototypal inheritance. The idea here is to use a skeleton of an existing object to create instances.</p>
+	<h2>Prototype Pattern in JavaScript</h2>
 </div>
-
+<p> This is a creational design pattern which uses JavaScript's native prototypal inheritance. The idea here is to use a skeleton of an existing object to create instances.</p>
 
 
 ```js
